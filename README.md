@@ -6,6 +6,6 @@ Données utilisées : BEA (Bureau of Economic Analysis).
 
 ### Dashboard Power BI :
 <p align="center">
-<img src="Dashboard_Page_1.jpeg" alt="Dashboard_Page_1" width="700"/>
-<img src="Dashboard_Page_2.jpeg" alt="Dashboard_Page_2" width="700"/>
+<img src="Dashboard_Page_1.jpg" alt="Dashboard_Page_1" width="700"/>
+<img src="Dashboard_Page_2.jpg" alt="Dashboard_Page_2" width="700"/>
 
