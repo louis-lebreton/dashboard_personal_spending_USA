@@ -8,6 +8,6 @@ Données utilisées : BEA (Bureau of Economic Analysis).
 - Page 1 : Dépenses personnelles des américains (total)
 - Page 2 : Dépenses personnelles des américains (par habitant)
 <p align="center">
-<img src="Dashboard_Page_1.jpg" alt="Dashboard_Page_1" width="900"/>
-<img src="Dashboard_Page_2.jpg" alt="Dashboard_Page_2" width="900"/>
+<img src="Dashboard_Page_1.jpg" alt="Dashboard_Page_1" width="1000"/>
+<img src="Dashboard_Page_2.jpg" alt="Dashboard_Page_2" width="1000"/>
 
