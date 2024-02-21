@@ -1,12 +1,12 @@
-# Dashboard Power BI - Dépenses personnelles des Américains par Etat, de 1997 à 2021
+# Power BI Dashboard - Personal spending by Americans by State, from 1997 to 2021
 
-### Objectif du projet : 
-Réaliser un Dashboard Power BI à partir de la problématique : __Comment a évolué la composition des dépenses personnelles des Américains de 1997 à 2021 ?__
-Données utilisées : BEA (Bureau of Economic Analysis).
+### Project goal : 
+Create a Power BI Dashboard based on the question: __How has the composition of personal spending by Americans changed from 1997 to 2021 ?__
+Data used: BEA (Bureau of Economic Analysis).
 
-### Dashboard Power BI : 
-- Page 1 : Dépenses personnelles des américains (total)
-- Page 2 : Dépenses personnelles des américains (par habitant)
+### Power BI Dashboard:
+- Page 1 : Personal spending (total)
+- Page 2 : Personal spending (per capita)
 <p align="center">
 <img src="Dashboard_Page_1.jpg" alt="Dashboard_Page_1" width="1000"/>
 <img src="Dashboard_Page_2.jpg" alt="Dashboard_Page_2" width="1000"/>
